@@ -1,0 +1,21 @@
+:root{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+body,html{
+    height: 99vh;
+    width: 99%;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+svg{
+    margin-left: 0.8rem;
+    
+}
